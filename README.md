@@ -29,6 +29,6 @@ In this capstone project, we aim to predict the successful landing of the Falcon
 ## Conclusion 
 1. Earlier flights had a considerably low success rate, however as there were more flights conducted the success rate for landing increased dramatically from 2013 - 2020
 2. The most successful launches were at launch site: KSC LC-39A
-3. There have been more rockets launches with payloads between 0kg – 5,000kg than 5,000kg to 10,000kg
+3. There have been more rockets launches with payloads smaller payloads between 0kg – 5,000kg than bigger payploads of 5,000kg - 10,000kg
 4. The Decision Tree model could predict if the landing would be successful most accurately, with an accuracy of 87.5%
 
