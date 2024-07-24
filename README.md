@@ -24,7 +24,8 @@ In this capstone project, we aim to predict the successful landing of the Falcon
 
 ## Confusion Matrix
 
-![image](https://github.com/user-attachments/assets/81446cae-f79f-4c3d-b280-fde9cef922d4)
+![image](https://github.com/user-attachments/assets/bdbc1aac-a053-4202-8634-c0c945fe96c3)
+
 
 ## Conclusion 
 1. Earlier flights had a considerably low success rate, however as there were more flights conducted the success rate for landing increased dramatically from 2013 - 2020
