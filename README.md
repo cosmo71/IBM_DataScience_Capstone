@@ -20,8 +20,11 @@ In this capstone project, we aim to predict the successful landing of the Falcon
 
 
 4. Machine learning predictive analysis
+   
 ![image](https://github.com/user-attachments/assets/a0b8e4e7-b609-4e9f-8871-712576b67a84)
+
 Confusion Matrix
+
 ![image](https://github.com/user-attachments/assets/81446cae-f79f-4c3d-b280-fde9cef922d4)
 
 
