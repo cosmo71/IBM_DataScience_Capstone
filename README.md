@@ -22,7 +22,7 @@ In this capstone project, we aim to predict the successful landing of the Falcon
 
 ![image](https://github.com/user-attachments/assets/a0b8e4e7-b609-4e9f-8871-712576b67a84)
 
-## Confusion Matrix
+## Confusion Matrix for Decision Tree model
 
 ![image](https://github.com/user-attachments/assets/bdbc1aac-a053-4202-8634-c0c945fe96c3)
 
